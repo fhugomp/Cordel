@@ -1,5 +1,3 @@
------
-
 # Projeto Cordel Moderno
 
 **Uma página web criada como tributo à Literatura de Cordel, utilizando HTML5 e CSS3 para criar um efeito de rolagem parallax.** 🎓
