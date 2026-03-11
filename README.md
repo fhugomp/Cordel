@@ -43,7 +43,7 @@ Abra o arquivo `index.html` diretamente no seu navegador de preferência para vi
 
 O projeto está hospedado no GitHub Pages e pode ser acessado diretamente pelo link abaixo:
 
-**[Acessar o site do Cordel Moderno](https://www.google.com/search?q=https://fhugomp.github.io/Cordel/)**
+**[Acessar o site do Cordel Moderno]([https://www.google.com/search?q=https://fhugomp.github.io/Cordel/](https://fhugomp.github.io/Cordel/))**
 
 ## ©️ Créditos
 
